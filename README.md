@@ -6,3 +6,5 @@ There is an exception for SXP because it is new on market roughly speaking. Long
 
 For installing requirements:
 **pip install -r requirements.txt**
+
+Comeback folder is to try new things, and apply what I learned since then because it's been a while...
